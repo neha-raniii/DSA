@@ -3,8 +3,8 @@ Input:  [1, 2, 4, 6, 8, 7]
 Target: 10
 Output: [2, 8]
 """
-arr = [1,2,4,6,8,7]
-arr.sort()
+arr = [1,2,4,6,8,]
+
 target = 10
 i = 0
 j = len(arr)-1
